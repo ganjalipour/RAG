@@ -1,4 +1,4 @@
-# Python Multimodal Voice Agent
+# Python Multimodal Voice Agent call-center-agent
 
 <p>
   <a href="https://cloud.livekit.io/projects/p_/sandbox"><strong>Deploy a sandbox app</strong></a>
