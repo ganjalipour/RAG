@@ -1,0 +1,16 @@
+livekit==1.0.12
+livekit-agents==1.1.4
+livekit-plugins-openai==1.1.1
+livekit-plugins-deepgram==1.1.4
+livekit-plugins-silero==1.1.1
+livekit-plugins-cartesia==1.1.4
+livekit-plugins-noise-cancellation==0.2.4
+livekit-plugins-rag==1.0.13
+requests==2.32.4
+python-dateutil==2.9.0.post0
+python-dotenv==1.1.0
+loguru==0.7.3
+langchain-text-splitters==0.3.8
+weaviate-client==4.15.0
+langchain-community==0.3.27
+langchain-openai==0.3.27
